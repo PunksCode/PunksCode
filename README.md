@@ -26,9 +26,9 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="PHP" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Laravel" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="MYSQL" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" **alt="PHP" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" **alt="MYSQL" width="40" height="40"/>
       </div>
 </div>
 
