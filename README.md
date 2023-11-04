@@ -5,12 +5,14 @@
 <h1 align="center">I'm <a href="https://github.com/PunksCode">Agustín Jerez<a></h1>
 <Br>
 <h2>About Me! 😎</h2>
-- 💼: I'm open to freelance programming opportunities.
-- 🎸: Self-taught guitarist, I enjoy playing music in my free time.
-- 🎮: Hardcore gamer, always ready for a gaming session.
-- 📚: I'm continuously improving my skills and enjoy diving into documentation.
-- 🤝: Proficient in teamwork methodologies and possess strong soft skills.
-- 💪🏋️‍♂️: Calisthenics enthusiast and fitness aficionado.
+  <ul>
+<li>- 💼: I'm open to freelance programming opportunities.</li>
+<li>- 🎸: Self-taught guitarist, I enjoy playing music in my free time.</li>
+<li>- 🎮: Hardcore gamer, always ready for a gaming session.</li>
+<li>- 📚: I'm continuously improving my skills and enjoy diving into documentation.</li>
+<li>- 🤝: Proficient in teamwork methodologies and possess strong soft skills.</li>
+<li>- 💪🏋️‍♂️: Calisthenics enthusiast and fitness aficionado.</li>
+    </ul>
 <hr>
 <Br>
 <div align="left">
@@ -24,10 +26,11 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="PHP" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Laravel" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="MYSQL" width="40" height="40"/>
       </div>
 </div>
+
 
 
